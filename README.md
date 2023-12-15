@@ -31,7 +31,7 @@ Keterangan:
 | A9 | Himmel - Switch2 - SchwerMountain - Switch2 - Fern | 66 | /25 |
 | A10 | Fern - Richter | 2 | /30 |
 | A11 | Fern - Switch1 - Revolte | 2 | /30 |
-|   Total  |                          | 1873 | /21 |
+|   Total  |                          | 1873 | /20 |
 
 # Pohon IP
 
