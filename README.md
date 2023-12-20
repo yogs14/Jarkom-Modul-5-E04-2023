@@ -4,6 +4,28 @@
 1. Yoga Firman Syahputra (5025221212)
 2. Vidiawan Nabiel Arrasyid (5025221231)
 
+# Daftar Isi
+1. [Klusterisasi Subnet pada Topologi](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#klusterisasi-subnet-pada-topologi)
+2. [VLSM (Variable Length Subnet Masking)](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#vlsm-variable-length-subnet-masking)
+3. [Pohon IP](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#pohon-ip)
+4. [Hasil Pembagian IP per Node](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#hasil-pembagian-ip-per-node)
+5. [Configuration](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#configuration)
+   1. [Config ETH](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#config-eth)
+   2. [Routing (Static)](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#routing-static)
+   3. [Config DHCP (Dynamic Host Configuration Protocol)](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#config-dhcp-dynamic-host-configuration-protocol)
+   4. [Config Relay](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#config-relay)
+   5. [Config DNS (Richter)](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#config-dns-richter)
+6. [Problem Solution](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#problem-solution)
+   1. [Soal 1](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#soal-1)
+   2. [Soal 2](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#soal-2)
+   3. [Soal 3](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#soal-3)
+   4. [Soal 4](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#soal-4)
+   5. [Soal 5](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#soal-5)
+   6. [Soal 6](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#soal-6)
+   7. [Soal 7](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#soal-7)
+   8. [Soal 8](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#soal-8)
+   9. [Soal 9](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#soal-9)
+   10. [Soal 10](https://github.com/yogs14/Jarkom-Modul-5-E04-2023#soal-10)
 
 # Klusterisasi Subnet pada Topologi
 ![A1](https://github.com/yogs14/Jarkom-Modul-5-E04-2023/assets/121499055/029c8c69-40b7-4c46-b45c-365750db9245)
