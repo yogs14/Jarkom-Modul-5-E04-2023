@@ -629,7 +629,7 @@ kern.warning /var/log/iptables.log
 
 /etc/init.d/rsyslog restart
 ```
-keterangan
+keterangan:
 
 * iptables -N LOGGING menunjukkan bahwa akan dibuat chain baru bernama LOGGING.
 + iptables -A INPUT -j LOGGING menunjukkan bahwa paket yang masuk akan diteruskan ke chain LOGGING.
@@ -638,4 +638,7 @@ kern.warning /var/log/iptables.log menunjukkan bahwa log dengan level warning ak
 /etc/init.d/rsyslog restart restart kembali rsyslog.
 
 # Kendala Pengerjaan
-* 
+* File konfigurasi sempat hilang disaat _progress_ sudah sekitar 60% sehingga harus mengulang dari awal yang menyebabkan waktu terkuras sangat banyak
++  Kurangnya pemahaman pada web server sebelumnya membuat pemecahannya memakan waktu lama
+- _Syntax-syntax_ konfigurasi yang tidak tersedia secara langsung di modul dan check re-check syntax di internet cukup membuat repot
+* Saat konfigurasi eth ternyata terdapat ip yang tidak sesuai yang sebelumnya tak terdeteksi sehingga membuat peroutingan tidak bekerja
